@@ -1,9 +1,10 @@
+/* */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*background color*/ 
 body {
     background-color: #d9dcd6;
 }
@@ -14,7 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* displays the title*/ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
