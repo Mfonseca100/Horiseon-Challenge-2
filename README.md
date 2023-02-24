@@ -1,6 +1,6 @@
 # Horiseon-Challenge-2
-Update
 
+## Challenge 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
 Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
@@ -13,6 +13,7 @@ To impress clients, you should always go the extra mile and improve their codeba
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -25,6 +26,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order - Done
 WHEN I view the title element
 THEN I find a concise, descriptive title - Done
+
 ## Review
 You are required to submit the following for review:
 
@@ -32,3 +34,7 @@ The URL of the deployed application.
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+## Image of Project 
+![Horiseon Screenshot][def]
+
+[def]: assets/images/Horiseon%20Ch2%20Img.png
