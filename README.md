@@ -35,10 +35,4 @@ The URL of the deployed application.
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ## Image of Project 
-<<<<<<< HEAD
-![Horiseon Screenshot][def]
-
-[def]: assets/images/Horiseon%20Ch2%20Img.png
-=======
 ![Horiseon Screenshot](assets/images/Horiseon%20Ch2%20Img.png)
->>>>>>> 217df7fb9c5b8fa4480e9c5d98963f89be501893
